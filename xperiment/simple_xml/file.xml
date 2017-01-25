@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<Person>
+  <FirstName>Elvis</FirstName>
+  <LastName>Presley</LastName>
+  <DateOfBirth>
+    <Year>1935</Year>
+    <Month>1</Month>
+    <Day>8</Day>
+  </DateOfBirth>
+</Person>

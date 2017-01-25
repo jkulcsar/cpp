@@ -1,0 +1,5 @@
+
+SET(SHELL_COMMENTS_FILTER_LIBS boost_system${BOOST_LIB_SUFFIX} boost_iostreams${BOOST_LIBS_SUFFIX})
+
+add_executable(shell_comments_filter_usage shell_comments_filter_usage.cpp)
+target_link_libraries(shell_comments_filter_usage ${SHELL_COMMENTS_FILTER_LIBS})

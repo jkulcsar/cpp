@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<configurationDescriptor version="80">
+  <logicalFolder name="root" displayName="root" projectFiles="true" kind="ROOT">
+    <df name="otpc-mtmc" root=".">
+      <df name="CMakeFiles">
+        <df name="CMakeTmp">
+          <df name="CMakeFiles">
+            <df name="cmTryCompileExec.dir">
+            </df>
+          </df>
+        </df>
+        <df name="CompilerIdC">
+          <in>CMakeCCompilerId.c</in>
+          <in>a.out</in>
+        </df>
+        <df name="CompilerIdCXX">
+          <in>CMakeCXXCompilerId.cpp</in>
+          <in>a.out</in>
+        </df>
+        <df name="Progress">
+          <in>1</in>
+          <in>count.txt</in>
+        </df>
+        <df name="test-mcmt.dir">
+          <in>DependInfo.cmake</in>
+          <in>build.make</in>
+          <in>cmake_clean.cmake</in>
+          <in>depend.make</in>
+          <in>flags.make</in>
+          <in>link.txt</in>
+          <in>progress.make</in>
+        </df>
+        <df name="test-otpc-tp.dir">
+          <in>DependInfo.cmake</in>
+          <in>build.make</in>
+          <in>cmake_clean.cmake</in>
+          <in>depend.make</in>
+          <in>flags.make</in>
+          <in>link.txt</in>
+          <in>progress.make</in>
+        </df>
+        <df name="test-otpc.dir">
+          <in>DependInfo.cmake</in>
+          <in>build.make</in>
+          <in>cmake_clean.cmake</in>
+          <in>depend.make</in>
+          <in>flags.make</in>
+          <in>link.txt</in>
+          <in>progress.make</in>
+        </df>
+        <in>CMakeOutput.log</in>
+        <in>CMakeSystem.cmake</in>
+      </df>
+      <df name="multi_thread_multi_connections">
+      </df>
+      <df name="one_thread_per_connection">
+      </df>
+      <df name="threadpool">
+        <df name="boost">
+          <df name="threadpool">
+            <df name="detail">
+              <in>future.hpp</in>
+              <in>locking_ptr.hpp</in>
+              <in>pool_core.hpp</in>
+              <in>scope_guard.hpp</in>
+              <in>worker_thread.hpp</in>
+            </df>
+            <in>future.hpp</in>
+            <in>pool.hpp</in>
+            <in>pool_adaptors.hpp</in>
+            <in>scheduling_policies.hpp</in>
+            <in>shutdown_policies.hpp</in>
+            <in>size_policies.hpp</in>
+            <in>task_adaptors.hpp</in>
+          </df>
+          <in>threadpool.hpp</in>
+        </df>
+        <df name="libs">
+          <df name="threadpool">
+            <df name="doc">
+            </df>
+            <df name="example">
+              <df name="mergesort">
+                <in>mergesort.cpp</in>
+              </df>
+            </df>
+            <df name="quickstart">
+              <in>quickstart.cpp</in>
+            </df>
+            <df name="test">
+              <df name="compile_all">
+                <in>compile_all.cpp</in>
+              </df>
+            </df>
+            <df name="tutorial">
+              <in>tutorial.cpp</in>
+            </df>
+          </df>
+        </df>
+      </df>
+      <in>common.h</in>
+      <in>test-mcmt.cpp</in>
+      <in>test-otpc-conn.cpp</in>
+      <in>test-otpc-conn.hpp</in>
+      <in>test-otpc-tp.cpp</in>
+      <in>test-otpc.cpp</in>
+    </df>
+    <logicalFolder name="ExternalFiles"
+                   displayName="Important Files"
+                   projectFiles="false"
+                   kind="IMPORTANT_FILES_FOLDER">
+      <itemPath>CMakeLists.txt</itemPath>
+      <itemPath>Makefile</itemPath>
+    </logicalFolder>
+  </logicalFolder>
+  <sourceFolderFilter>^(nbproject)$</sourceFolderFilter>
+  <sourceRootList>
+    <Elem>.</Elem>
+  </sourceRootList>
+  <projectmakefile>Makefile</projectmakefile>
+  <confs>
+    <conf name="Default" type="0">
+      <toolsSet>
+        <remote-sources-mode>LOCAL_SOURCES</remote-sources-mode>
+        <compilerSet>default</compilerSet>
+      </toolsSet>
+      <makefileType>
+        <makeTool>
+          <buildCommandWorkingDir>.</buildCommandWorkingDir>
+          <buildCommand>${MAKE} -f Makefile</buildCommand>
+          <cleanCommand>${MAKE} -f Makefile clean</cleanCommand>
+          <executablePath></executablePath>
+        </makeTool>
+      </makefileType>
+    </conf>
+  </confs>
+</configurationDescriptor>

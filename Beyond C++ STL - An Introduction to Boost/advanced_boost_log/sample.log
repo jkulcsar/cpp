@@ -1,0 +1,10 @@
+Hello, World!
+1 [02.11.2012 23:33:10.442924] [] [00:00:00.000072] [int __cdecl main(int,char *[])] [n = f1, s = TEXT]Some log line with a counter
+2 [02.11.2012 23:33:10.454924] [] [00:00:00.015605] [int __cdecl main(int,char *[])] Another log line with the counter
+3 [02.11.2012 23:33:10.463924] [] [00:00:00.028689] [Tagged line] [Tagging scope<-int __cdecl main(int,char *[])] Some tagged log line
+4 [02.11.2012 23:33:10.472924] [] [00:00:00.039914] [Tagged line] [Tagging scope<-int __cdecl main(int,char *[])] Another tagged log line
+5 [02.11.2012 23:33:10.483924] [] [00:00:00.055280] [int __cdecl main(int,char *[])] Now the tag is removed
+6 [02.11.2012 23:33:10.491924] [error] [00:00:00.066705] [int __cdecl main(int,char *[])] An error severity message, will pass to the output
+7 [02.11.2012 23:33:10.509924] [normal] [00:00:00.090941] [IMPORTANT MESSAGES] [int __cdecl main(int,char *[])] Some really urgent line
+9 [02.11.2012 23:33:10.518924] [] [00:00:00.102968] [int __cdecl foo(class boost::log2_mt_nt5::sources::logger &)<-int __cdecl main(int,char *[])] foo is being called
+8 [02.11.2012 23:33:10.518924] [] [00:00:00.102920] [int __cdecl main(int,char *[])] The result of foo is 10

@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "funcptr", "funcptr\funcptr.vcxproj", "{2B56BA3D-E365-4FE9-9AED-0A22CB99F372}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "functor1", "functor1\functor1.vcxproj", "{FF9502F3-1A0A-4624-BD20-F98C173F0ECC}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "functors_as_template_arguments", "functors_as_template_arguments\functors_as_template_arguments.vcxproj", "{1D2362DD-F772-4378-9C90-B3F091FDD3E4}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "pointer_to_member_functions", "pointer_to_member_functions\pointer_to_member_functions.vcxproj", "{667053CE-8299-457E-B3BA-A1E6F2F0297C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2B56BA3D-E365-4FE9-9AED-0A22CB99F372}.Debug|Win32.ActiveCfg = Debug|Win32
+		{2B56BA3D-E365-4FE9-9AED-0A22CB99F372}.Debug|Win32.Build.0 = Debug|Win32
+		{2B56BA3D-E365-4FE9-9AED-0A22CB99F372}.Release|Win32.ActiveCfg = Release|Win32
+		{2B56BA3D-E365-4FE9-9AED-0A22CB99F372}.Release|Win32.Build.0 = Release|Win32
+		{FF9502F3-1A0A-4624-BD20-F98C173F0ECC}.Debug|Win32.ActiveCfg = Debug|Win32
+		{FF9502F3-1A0A-4624-BD20-F98C173F0ECC}.Debug|Win32.Build.0 = Debug|Win32
+		{FF9502F3-1A0A-4624-BD20-F98C173F0ECC}.Release|Win32.ActiveCfg = Release|Win32
+		{FF9502F3-1A0A-4624-BD20-F98C173F0ECC}.Release|Win32.Build.0 = Release|Win32
+		{1D2362DD-F772-4378-9C90-B3F091FDD3E4}.Debug|Win32.ActiveCfg = Debug|Win32
+		{1D2362DD-F772-4378-9C90-B3F091FDD3E4}.Debug|Win32.Build.0 = Debug|Win32
+		{1D2362DD-F772-4378-9C90-B3F091FDD3E4}.Release|Win32.ActiveCfg = Release|Win32
+		{1D2362DD-F772-4378-9C90-B3F091FDD3E4}.Release|Win32.Build.0 = Release|Win32
+		{667053CE-8299-457E-B3BA-A1E6F2F0297C}.Debug|Win32.ActiveCfg = Debug|Win32
+		{667053CE-8299-457E-B3BA-A1E6F2F0297C}.Debug|Win32.Build.0 = Debug|Win32
+		{667053CE-8299-457E-B3BA-A1E6F2F0297C}.Release|Win32.ActiveCfg = Release|Win32
+		{667053CE-8299-457E-B3BA-A1E6F2F0297C}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

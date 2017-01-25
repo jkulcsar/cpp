@@ -1,0 +1,24 @@
+
+cmake_minimum_required(VERSION 2.8)
+
+PROJECT(daytime_server)
+
+SET(CMAKE_VERBOSE_MAKEFILE ON)
+
+# Boost
+FIND_PACKAGE(Boost)
+# ...
+INCLUDE_DIRECTORIES(${Boost_INCLUDE_DIRS})
+LINK_DIRECTORIES(${Boost_LIBRARY_DIRS})
+
+# SET(BOOST_LIB_SUFFIX -mt-d)
+SET(BOOST_LIB_SUFFIX)
+SET(USED_LIBS boost_system${BOOST_LIB_SUFFIX} boost_thread${BOOST_LIB_SUFFIX} boost_regex${BOOST_LIB_SUFFIX})
+
+#INCLUDE_DIRECTORIES(${Boost_INCLUDE_DIRS} ./threadpool)
+LINK_DIRECTORIES(${Boost_LIBRARY_DIRS} )
+ADD_DEFINITIONS(-g -Wall -ansi)
+
+ADD_EXECUTABLE(daytime_server daytime_server.cpp)
+TARGET_LINK_LIBRARIES(daytime_server ${USED_LIBS})
+

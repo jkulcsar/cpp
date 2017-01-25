@@ -1,0 +1,7 @@
+# graph1.dat
+v1
+v2 <v1 v4 v5 >
+v3 <v2 v5 >
+v4 <v2 >
+# cycle, loop to itself:
+v5 <v5 v4 >

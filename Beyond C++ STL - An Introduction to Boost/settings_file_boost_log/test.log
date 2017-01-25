@@ -1,0 +1,6 @@
+[2012-Nov-02 22:41:47.639924]  This is a warning severity record
+[2012-Nov-02 22:41:47.642924]  This is a error severity record
+[2012-Nov-02 22:41:47.643924]  This is a critical severity record
+[2012-Nov-02 22:41:47.648924] TAGGED This is a warning severity record
+[2012-Nov-02 22:41:47.652924] TAGGED This is a error severity record
+[2012-Nov-02 22:41:47.655924] TAGGED This is a critical severity record

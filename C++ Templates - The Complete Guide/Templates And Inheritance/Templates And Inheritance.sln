@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Templates And Inheritance", "Templates And Inheritance\Templates And Inheritance.vcxproj", "{2CEFCB3F-D77F-4DDD-8281-50DAD5B35E5F}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ebco1", "ebco1\ebco1.vcxproj", "{8D95D560-54E9-4BFC-BA41-CD5B8FF88D78}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "empty", "empty\empty.vcxproj", "{74C6C1D3-42CC-4BDA-AE9B-3FAEBAEE220D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2CEFCB3F-D77F-4DDD-8281-50DAD5B35E5F}.Debug|Win32.ActiveCfg = Debug|Win32
+		{2CEFCB3F-D77F-4DDD-8281-50DAD5B35E5F}.Debug|Win32.Build.0 = Debug|Win32
+		{2CEFCB3F-D77F-4DDD-8281-50DAD5B35E5F}.Release|Win32.ActiveCfg = Release|Win32
+		{2CEFCB3F-D77F-4DDD-8281-50DAD5B35E5F}.Release|Win32.Build.0 = Release|Win32
+		{8D95D560-54E9-4BFC-BA41-CD5B8FF88D78}.Debug|Win32.ActiveCfg = Debug|Win32
+		{8D95D560-54E9-4BFC-BA41-CD5B8FF88D78}.Debug|Win32.Build.0 = Debug|Win32
+		{8D95D560-54E9-4BFC-BA41-CD5B8FF88D78}.Release|Win32.ActiveCfg = Release|Win32
+		{8D95D560-54E9-4BFC-BA41-CD5B8FF88D78}.Release|Win32.Build.0 = Release|Win32
+		{74C6C1D3-42CC-4BDA-AE9B-3FAEBAEE220D}.Debug|Win32.ActiveCfg = Debug|Win32
+		{74C6C1D3-42CC-4BDA-AE9B-3FAEBAEE220D}.Debug|Win32.Build.0 = Debug|Win32
+		{74C6C1D3-42CC-4BDA-AE9B-3FAEBAEE220D}.Release|Win32.ActiveCfg = Release|Win32
+		{74C6C1D3-42CC-4BDA-AE9B-3FAEBAEE220D}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

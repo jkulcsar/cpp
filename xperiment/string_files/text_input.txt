@@ -1,0 +1,2983 @@
+first_string
+next string
+Service Pack started with following command line: -q -u -z
+***
+
+---- Old Information In The Registry ------
+***
+
+
+Source:C:\WINNT\system32\qmgrprxy.dll.bitssetup.bak.144781
+Version: 6.2.3630.2522
+***
+
+
+Destination:C:\WINNT\system32\BITS\Uninstall 1.5 Client\qmgrprxy.dll
+Version: 6.0.2.0
+***
+
+
+Source:c:\238cd6084271f3d5f5df73b3
+Version: 
+***
+
+
+Destination:
+Version: 
+***
+
+
+Source:C:\WINNT\TEMP\cle4A4.tmp\cleanup.exe
+Version: 3.1.1.184
+***
+
+
+Destination:
+Version: 
+***
+
+
+Source:C:\WINNT\TEMP\cle4A4.tmp
+Version: 
+***
+
+
+Destination:
+Version: 
+***
+
+
+Source:C:\WINNT\TEMP\cle4AF.tmp\cleanup.exe
+Version: 3.1.1.192
+***
+
+
+Destination:
+Version: 
+***
+
+
+Source:C:\WINNT\TEMP\cle4AF.tmp
+Version: 
+***
+
+
+Destination:
+Version: 
+***
+
+
+Source:c:\38a6fe506abc9c0314
+Version: 
+***
+
+
+Destination:
+Version: 
+***
+
+
+Source:c:\aecf35b3b472e3cc9069de4c2974ec
+Version: 
+***
+
+
+Destination:
+Version: 
+***
+
+
+Source:C:\WINNT\system32\_000006_.tmp
+Version: 5.0.2195.6656
+***
+
+
+Destination:
+Version: 
+***
+
+
+Source:C:\WINNT\system32\_000007_.tmp
+Version: 5.0.2195.6692
+***
+
+
+Destination:
+Version: 
+***
+
+
+Source:c:\f515cd54f57fe89138e32cf368e5
+Version: 
+***
+
+
+Destination:
+Version: 
+***
+
+
+Source:c:\4f714f5eb94aefd1b5989b8b9bc1d68d
+Version: 
+***
+
+
+Destination:
+Version: 
+***
+
+
+Source:c:\42279cde1c33fb3a9251eb
+Version: 
+***
+
+
+Destination:
+Version: 
+***
+
+
+Source:c:\a72c1a0587df801ea2a76d4a71a369fa
+Version: 
+***
+
+
+Destination:
+Version: 
+***
+
+
+Source:C:\WINNT\system32\SET519.tmp
+Version: 2000.2.3511.0
+***
+
+
+Destination:C:\WINNT\system32\clbcatq.dll
+Version: 2000.0.2.0
+***
+
+
+Source:C:\WINNT\system32\SET51C.tmp
+Version: 2000.2.3511.0
+***
+
+
+Destination:C:\WINNT\system32\comsvcs.dll
+Version: 2000.0.2.0
+***
+
+
+Source:C:\WINNT\system32\SET51F.tmp
+Version: 2000.2.3511.0
+***
+
+
+Destination:C:\WINNT\system32\es.dll
+Version: 2000.0.2.0
+***
+
+
+Source:C:\WINNT\system32\SET521.tmp
+Version: 2000.2.3513.0
+***
+
+
+Destination:C:\WINNT\system32\msdtcprx.dll
+Version: 2000.0.2.0
+***
+
+
+Source:C:\WINNT\system32\SET524.tmp
+Version: 2000.2.3511.0
+***
+
+
+Destination:C:\WINNT\system32\mtxclu.dll
+Version: 2000.0.2.0
+***
+
+
+Source:C:\WINNT\system32\SET527.tmp
+Version: 2000.2.3513.0
+***
+
+
+Destination:C:\WINNT\system32\mtxoci.dll
+Version: 2000.0.2.0
+***
+
+
+Source:C:\WINNT\system32\SET528.tmp
+Version: 5.0.2195.6906
+***
+
+
+Destination:C:\WINNT\system32\OLE32.DLL
+Version: 5.0.0.0
+***
+
+
+Source:C:\WINNT\system32\SET529.tmp
+Version: 5.0.2195.6904
+***
+
+
+Destination:C:\WINNT\system32\rpcrt4.dll
+Version: 5.0.0.0
+***
+
+
+Source:C:\WINNT\system32\SET52A.tmp
+Version: 5.0.2195.6906
+***
+
+
+Destination:C:\WINNT\system32\rpcss.dll
+Version: 5.0.0.0
+***
+
+
+Source:C:\WINNT\system32\SET52B.tmp
+Version: 2000.2.3511.0
+***
+
+
+Destination:C:\WINNT\system32\txfaux.dll
+Version: 2000.0.2.0
+***
+
+
+Source:C:\WINNT\system32\Setup\SET52D.tmp
+Version: 2000.2.3421.3511
+***
+
+
+Destination:C:\WINNT\system32\Setup\comsetup.dll
+Version: 2000.0.2.0
+***
+
+
+Source:c:\262414dfbb6351de274c8ad9330a25
+Version: 
+***
+
+
+Destination:
+Version: 
+***
+
+
+Source:c:\0a56c40f0b681b1d6cb904
+Version: 
+***
+
+
+Destination:
+Version: 
+***
+
+
+Source:C:\WINNT\system32\_000063_.tmp
+Version: 5.0.2195.6710
+***
+
+
+Destination:
+Version: 
+***
+
+
+Source:C:\WINNT\system32\_000064_.tmp
+Version: 5.0.2195.6695
+***
+
+
+Destination:
+Version: 
+***
+
+
+Source:C:\WINNT\system32\_000065_.tmp
+Version: 5.0.2195.6666
+***
+
+
+Destination:
+Version: 
+***
+
+
+Source:C:\WINNT\system32\_000066_.tmp
+Version: 5.0.2195.6680
+***
+
+
+Destination:
+Version: 
+***
+
+
+Source:C:\WINNT\system32\_000067_.tmp
+Version: 5.0.2195.6666
+***
+
+
+Destination:
+Version: 
+***
+
+
+Source:C:\WINNT\system32\_000068_.tmp
+Version: 5.0.2195.6697
+***
+
+
+Destination:
+Version: 
+***
+
+
+Source:C:\WINNT\system32\_000071_.tmp
+Version: 5.0.2195.6688
+***
+
+
+Destination:
+Version: 
+***
+
+
+Source:C:\WINNT\system32\_000072_.tmp
+Version: 5.0.2195.6685
+***
+
+
+Destination:
+Version: 
+***
+
+
+Source:C:\WINNT\system32\_000075_.tmp
+Version: 5.0.2195.6708
+***
+
+
+Destination:
+Version: 
+***
+
+
+Source:C:\WINNT\system32\_000076_.tmp
+Version: 5.0.2195.6699
+***
+
+
+Destination:
+Version: 
+***
+
+
+Source:C:\WINNT\system32\SET620.tmp
+Version: 5.0.2195.6987
+***
+
+
+Destination:C:\WINNT\system32\LSASRV.DLL
+Version: 5.0.0.0
+***
+
+
+Source:C:\WINNT\system32\SET575.tmp
+Version: 5.1.2195.6899
+***
+
+
+Destination:C:\WINNT\system32\SCHANNEL.DLL
+Version: 5.0.1.0
+***
+
+
+Source:C:\WINNT\system32\SET5E8.tmp
+Version: 5.0.2195.6951
+***
+
+
+Destination:C:\WINNT\system32\BASESRV.DLL
+Version: 5.0.0.0
+***
+
+
+Source:C:\WINNT\system32\SET622.tmp
+Version: 5.0.2195.6866
+***
+
+
+Destination:C:\WINNT\system32\browser.dll
+Version: 5.0.0.0
+***
+
+
+Source:C:\WINNT\system32\SET5E9.tmp
+Version: 5.0.2195.6824
+***
+
+
+Destination:C:\WINNT\system32\CMD.EXE
+Version: 5.0.0.0
+***
+
+
+Source:C:\WINNT\system32\SET57B.tmp
+Version: 5.131.2195.6824
+***
+
+
+Destination:C:\WINNT\system32\CRYPT32.DLL
+Version: 5.0.131.0
+***
+
+
+Source:C:\WINNT\system32\SET57C.tmp
+Version: 5.131.2195.6824
+***
+
+
+Destination:C:\WINNT\system32\CRYPTNET.DLL
+Version: 5.0.131.0
+***
+
+
+Source:C:\WINNT\system32\SET57D.tmp
+Version: 5.0.2195.6868
+***
+
+
+Destination:C:\WINNT\system32\cryptsvc.dll
+Version: 5.0.0.0
+***
+
+
+Source:C:\WINNT\system32\SET623.tmp
+Version: 5.0.2195.6824
+***
+
+
+Destination:C:\WINNT\system32\dnsapi.dll
+Version: 5.0.0.0
+***
+
+
+Source:C:\WINNT\system32\SET624.tmp
+Version: 5.0.2195.6876
+***
+
+
+Destination:C:\WINNT\system32\dnsrslvr.dll
+Version: 5.0.0.0
+***
+
+
+Source:C:\WINNT\system32\SET625.tmp
+Version: 5.0.2195.6883
+***
+
+
+Destination:C:\WINNT\system32\EVENTLOG.DLL
+Version: 5.0.0.0
+***
+
+
+Source:C:\WINNT\system32\SET5EA.tmp
+Version: 5.0.2195.6945
+***
+
+
+Destination:C:\WINNT\system32\GDI32.DLL
+Version: 5.0.0.0
+***
+
+
+Source:C:\WINNT\system32\SET582.tmp
+Version: 5.0.2195.6901
+***
+
+
+Destination:C:\WINNT\system32\h323.tsp
+Version: 5.0.0.0
+***
+
+
+Source:C:\WINNT\system32\SET626.tmp
+Version: 5.0.2195.6903
+***
+
+
+Destination:C:\WINNT\system32\kerberos.dll
+Version: 5.0.0.0
+***
+
+
+Source:C:\WINNT\system32\SET5EC.tmp
+Version: 5.0.2195.6824
+***
+
+
+Destination:C:\WINNT\system32\mpr.dll
+Version: 5.0.0.0
+***
+
+
+Source:C:\WINNT\system32\SET5ED.tmp
+Version: 5.0.2195.6928
+***
+
+
+Destination:C:\WINNT\system32\MSGINA.DLL
+Version: 5.0.0.0
+***
+
+
+Source:C:\WINNT\system32\SET627.tmp
+Version: 5.0.2195.6949
+***
+
+
+Destination:C:\WINNT\system32\NETAPI32.DLL
+Version: 5.0.0.0
+***
+
+
+Source:C:\WINNT\system32\SET628.tmp
+Version: 5.0.2195.6891
+***
+
+
+Destination:C:\WINNT\system32\NETLOGON.DLL
+Version: 5.0.0.0
+***
+
+
+Source:C:\WINNT\system32\SET629.tmp
+Version: 5.0.2195.6896
+***
+
+
+Destination:C:\WINNT\system32\ntdsa.dll
+Version: 5.0.0.0
+***
+
+
+Source:C:\WINNT\system32\SET58B.tmp
+Version: 5.0.2195.6824
+***
+
+
+Destination:C:\WINNT\system32\PSBASE.DLL
+Version: 5.0.0.0
+***
+
+
+Source:C:\WINNT\system32\SET62A.tmp
+Version: 5.0.2195.6893
+***
+
+
+Destination:C:\WINNT\system32\scecli.dll
+Version: 5.0.0.0
+***
+
+
+Source:C:\WINNT\system32\SET62B.tmp
+Version: 5.0.2195.6903
+***
+
+
+Destination:C:\WINNT\system32\scesrv.dll
+Version: 5.0.0.0
+***
+
+
+Source:C:\WINNT\system32\SET58E.tmp
+Version: 5.0.2195.6894
+***
+
+
+Destination:C:\WINNT\system32\sfcfiles.dll
+Version: 5.0.0.0
+***
+
+
+Source:C:\WINNT\system32\SET5EF.tmp
+Version: 5.0.2195.6897
+***
+
+
+Destination:C:\WINNT\system32\USER32.DLL
+Version: 5.0.0.0
+***
+
+
+Source:C:\WINNT\system32\SET5F0.tmp
+Version: 5.0.2195.6794
+***
+
+
+Destination:C:\WINNT\system32\USERENV.DLL
+Version: 5.0.0.0
+***
+
+
+Source:C:\WINNT\system32\SET62C.tmp
+Version: 5.0.2195.6824
+***
+
+
+Destination:C:\WINNT\system32\w32time.dll
+Version: 5.0.0.0
+***
+
+
+Source:C:\WINNT\system32\SET62D.tmp
+Version: 5.0.2195.6824
+***
+
+
+Destination:C:\WINNT\system32\w32tm.exe
+Version: 5.0.0.0
+***
+
+
+Source:C:\WINNT\system32\SET5F2.tmp
+Version: 5.0.2195.6970
+***
+
+
+Destination:C:\WINNT\system32\WINLOGON.EXE
+Version: 5.0.0.0
+***
+
+
+Source:C:\WINNT\system32\SET595.tmp
+Version: 5.131.2195.6824
+***
+
+
+Destination:C:\WINNT\system32\WINTRUST.DLL
+Version: 5.0.131.0
+***
+
+
+Source:C:\WINNT\system32\SET597.tmp
+Version: 5.1.2600.1327
+***
+
+
+Destination:C:\WINNT\system32\winhttp.dll
+Version: 5.0.1.0
+***
+
+
+Source:c:\2a21b9e41b70fbc3c62292
+Version: 
+***
+
+
+Destination:
+Version: 
+***
+
+
+Source:C:\WINNT\system32\SET5F1.tmp
+Version: 5.0.2195.6946
+***
+
+
+Destination:C:\WINNT\system32\VDMDBG.DLL
+Version: 5.0.0.0
+***
+
+
+Source:C:\WINNT\system32\SET5F3.tmp
+Version: 5.0.2195.6946
+***
+
+
+Destination:C:\WINNT\system32\wow32.dll
+Version: 5.0.0.0
+***
+
+
+ 
+ 
+---- New Information In The Registry ------
+***
+
+
+Source:C:\WINNT\system32\qmgrprxy.dll.bitssetup.bak.144781
+Version: 6.2.3630.2522
+***
+
+
+Destination:C:\WINNT\system32\BITS\Uninstall 1.5 Client\qmgrprxy.dll
+Version: 6.0.2.0
+***
+
+
+Source:c:\238cd6084271f3d5f5df73b3
+Version: 
+***
+
+
+Destination:
+Version: 
+***
+
+
+Source:C:\WINNT\TEMP\cle4A4.tmp\cleanup.exe
+Version: 3.1.1.184
+***
+
+
+Destination:
+Version: 
+***
+
+
+Source:C:\WINNT\TEMP\cle4A4.tmp
+Version: 
+***
+
+
+Destination:
+Version: 
+***
+
+
+Source:C:\WINNT\TEMP\cle4AF.tmp\cleanup.exe
+Version: 3.1.1.192
+***
+
+
+Destination:
+Version: 
+***
+
+
+Source:C:\WINNT\TEMP\cle4AF.tmp
+Version: 
+***
+
+
+Destination:
+Version: 
+***
+
+
+Source:c:\38a6fe506abc9c0314
+Version: 
+***
+
+
+Destination:
+Version: 
+***
+
+
+Source:c:\aecf35b3b472e3cc9069de4c2974ec
+Version: 
+***
+
+
+Destination:
+Version: 
+***
+
+
+Source:C:\WINNT\system32\_000006_.tmp
+Version: 5.0.2195.6656
+***
+
+
+Destination:
+Version: 
+***
+
+
+Source:C:\WINNT\system32\_000007_.tmp
+Version: 5.0.2195.6692
+***
+
+
+Destination:
+Version: 
+***
+
+
+Source:c:\f515cd54f57fe89138e32cf368e5
+Version: 
+***
+
+
+Destination:
+Version: 
+***
+
+
+Source:c:\4f714f5eb94aefd1b5989b8b9bc1d68d
+Version: 
+***
+
+
+Destination:
+Version: 
+***
+
+
+Source:c:\42279cde1c33fb3a9251eb
+Version: 
+***
+
+
+Destination:
+Version: 
+***
+
+
+Source:c:\a72c1a0587df801ea2a76d4a71a369fa
+Version: 
+***
+
+
+Destination:
+Version: 
+***
+
+
+Source:C:\WINNT\system32\SET519.tmp
+Version: 2000.2.3511.0
+***
+
+
+Destination:C:\WINNT\system32\clbcatq.dll
+Version: 2000.0.2.0
+***
+
+
+Source:C:\WINNT\system32\SET51C.tmp
+Version: 2000.2.3511.0
+***
+
+
+Destination:C:\WINNT\system32\comsvcs.dll
+Version: 2000.0.2.0
+***
+
+
+Source:C:\WINNT\system32\SET51F.tmp
+Version: 2000.2.3511.0
+***
+
+
+Destination:C:\WINNT\system32\es.dll
+Version: 2000.0.2.0
+***
+
+
+Source:C:\WINNT\system32\SET521.tmp
+Version: 2000.2.3513.0
+***
+
+
+Destination:C:\WINNT\system32\msdtcprx.dll
+Version: 2000.0.2.0
+***
+
+
+Source:C:\WINNT\system32\SET524.tmp
+Version: 2000.2.3511.0
+***
+
+
+Destination:C:\WINNT\system32\mtxclu.dll
+Version: 2000.0.2.0
+***
+
+
+Source:C:\WINNT\system32\SET527.tmp
+Version: 2000.2.3513.0
+***
+
+
+Destination:C:\WINNT\system32\mtxoci.dll
+Version: 2000.0.2.0
+***
+
+
+Source:C:\WINNT\system32\SET528.tmp
+Version: 5.0.2195.6906
+***
+
+
+Destination:C:\WINNT\system32\OLE32.DLL
+Version: 5.0.0.0
+***
+
+
+Source:C:\WINNT\system32\SET529.tmp
+Version: 5.0.2195.6904
+***
+
+
+Destination:C:\WINNT\system32\rpcrt4.dll
+Version: 5.0.0.0
+***
+
+
+Source:C:\WINNT\system32\SET52A.tmp
+Version: 5.0.2195.6906
+***
+
+
+Destination:C:\WINNT\system32\rpcss.dll
+Version: 5.0.0.0
+***
+
+
+Source:C:\WINNT\system32\SET52B.tmp
+Version: 2000.2.3511.0
+***
+
+
+Destination:C:\WINNT\system32\txfaux.dll
+Version: 2000.0.2.0
+***
+
+
+Source:C:\WINNT\system32\Setup\SET52D.tmp
+Version: 2000.2.3421.3511
+***
+
+
+Destination:C:\WINNT\system32\Setup\comsetup.dll
+Version: 2000.0.2.0
+***
+
+
+Source:c:\262414dfbb6351de274c8ad9330a25
+Version: 
+***
+
+
+Destination:
+Version: 
+***
+
+
+Source:c:\0a56c40f0b681b1d6cb904
+Version: 
+***
+
+
+Destination:
+Version: 
+***
+
+
+Source:C:\WINNT\system32\_000063_.tmp
+Version: 5.0.2195.6710
+***
+
+
+Destination:
+Version: 
+***
+
+
+Source:C:\WINNT\system32\_000064_.tmp
+Version: 5.0.2195.6695
+***
+
+
+Destination:
+Version: 
+***
+
+
+Source:C:\WINNT\system32\_000065_.tmp
+Version: 5.0.2195.6666
+***
+
+
+Destination:
+Version: 
+***
+
+
+Source:C:\WINNT\system32\_000066_.tmp
+Version: 5.0.2195.6680
+***
+
+
+Destination:
+Version: 
+***
+
+
+Source:C:\WINNT\system32\_000067_.tmp
+Version: 5.0.2195.6666
+***
+
+
+Destination:
+Version: 
+***
+
+
+Source:C:\WINNT\system32\_000068_.tmp
+Version: 5.0.2195.6697
+***
+
+
+Destination:
+Version: 
+***
+
+
+Source:C:\WINNT\system32\_000071_.tmp
+Version: 5.0.2195.6688
+***
+
+
+Destination:
+Version: 
+***
+
+
+Source:C:\WINNT\system32\_000072_.tmp
+Version: 5.0.2195.6685
+***
+
+
+Destination:
+Version: 
+***
+
+
+Source:C:\WINNT\system32\_000075_.tmp
+Version: 5.0.2195.6708
+***
+
+
+Destination:
+Version: 
+***
+
+
+Source:C:\WINNT\system32\_000076_.tmp
+Version: 5.0.2195.6699
+***
+
+
+Destination:
+Version: 
+***
+
+
+Source:C:\WINNT\system32\SET620.tmp
+Version: 5.0.2195.6987
+***
+
+
+Destination:C:\WINNT\system32\LSASRV.DLL
+Version: 5.0.0.0
+***
+
+
+Source:C:\WINNT\system32\SET575.tmp
+Version: 5.1.2195.6899
+***
+
+
+Destination:C:\WINNT\system32\SCHANNEL.DLL
+Version: 5.0.1.0
+***
+
+
+Source:C:\WINNT\system32\SET5E8.tmp
+Version: 5.0.2195.6951
+***
+
+
+Destination:C:\WINNT\system32\BASESRV.DLL
+Version: 5.0.0.0
+***
+
+
+Source:C:\WINNT\system32\SET622.tmp
+Version: 5.0.2195.6866
+***
+
+
+Destination:C:\WINNT\system32\browser.dll
+Version: 5.0.0.0
+***
+
+
+Source:C:\WINNT\system32\SET5E9.tmp
+Version: 5.0.2195.6824
+***
+
+
+Destination:C:\WINNT\system32\CMD.EXE
+Version: 5.0.0.0
+***
+
+
+Source:C:\WINNT\system32\SET57B.tmp
+Version: 5.131.2195.6824
+***
+
+
+Destination:C:\WINNT\system32\CRYPT32.DLL
+Version: 5.0.131.0
+***
+
+
+Source:C:\WINNT\system32\SET57C.tmp
+Version: 5.131.2195.6824
+***
+
+
+Destination:C:\WINNT\system32\CRYPTNET.DLL
+Version: 5.0.131.0
+***
+
+
+Source:C:\WINNT\system32\SET57D.tmp
+Version: 5.0.2195.6868
+***
+
+
+Destination:C:\WINNT\system32\cryptsvc.dll
+Version: 5.0.0.0
+***
+
+
+Source:C:\WINNT\system32\SET623.tmp
+Version: 5.0.2195.6824
+***
+
+
+Destination:C:\WINNT\system32\dnsapi.dll
+Version: 5.0.0.0
+***
+
+
+Source:C:\WINNT\system32\SET624.tmp
+Version: 5.0.2195.6876
+***
+
+
+Destination:C:\WINNT\system32\dnsrslvr.dll
+Version: 5.0.0.0
+***
+
+
+Source:C:\WINNT\system32\SET625.tmp
+Version: 5.0.2195.6883
+***
+
+
+Destination:C:\WINNT\system32\EVENTLOG.DLL
+Version: 5.0.0.0
+***
+
+
+Source:C:\WINNT\system32\SET5EA.tmp
+Version: 5.0.2195.6945
+***
+
+
+Destination:C:\WINNT\system32\GDI32.DLL
+Version: 5.0.0.0
+***
+
+
+Source:C:\WINNT\system32\SET582.tmp
+Version: 5.0.2195.6901
+***
+
+
+Destination:C:\WINNT\system32\h323.tsp
+Version: 5.0.0.0
+***
+
+
+Source:C:\WINNT\system32\SET626.tmp
+Version: 5.0.2195.6903
+***
+
+
+Destination:C:\WINNT\system32\kerberos.dll
+Version: 5.0.0.0
+***
+
+
+Source:C:\WINNT\system32\SET5EC.tmp
+Version: 5.0.2195.6824
+***
+
+
+Destination:C:\WINNT\system32\mpr.dll
+Version: 5.0.0.0
+***
+
+
+Source:C:\WINNT\system32\SET5ED.tmp
+Version: 5.0.2195.6928
+***
+
+
+Destination:C:\WINNT\system32\MSGINA.DLL
+Version: 5.0.0.0
+***
+
+
+Source:C:\WINNT\system32\SET627.tmp
+Version: 5.0.2195.6949
+***
+
+
+Destination:C:\WINNT\system32\NETAPI32.DLL
+Version: 5.0.0.0
+***
+
+
+Source:C:\WINNT\system32\SET628.tmp
+Version: 5.0.2195.6891
+***
+
+
+Destination:C:\WINNT\system32\NETLOGON.DLL
+Version: 5.0.0.0
+***
+
+
+Source:C:\WINNT\system32\SET629.tmp
+Version: 5.0.2195.6896
+***
+
+
+Destination:C:\WINNT\system32\ntdsa.dll
+Version: 5.0.0.0
+***
+
+
+Source:C:\WINNT\system32\SET58B.tmp
+Version: 5.0.2195.6824
+***
+
+
+Destination:C:\WINNT\system32\PSBASE.DLL
+Version: 5.0.0.0
+***
+
+
+Source:C:\WINNT\system32\SET62A.tmp
+Version: 5.0.2195.6893
+***
+
+
+Destination:C:\WINNT\system32\scecli.dll
+Version: 5.0.0.0
+***
+
+
+Source:C:\WINNT\system32\SET62B.tmp
+Version: 5.0.2195.6903
+***
+
+
+Destination:C:\WINNT\system32\scesrv.dll
+Version: 5.0.0.0
+***
+
+
+Source:C:\WINNT\system32\SET58E.tmp
+Version: 5.0.2195.6894
+***
+
+
+Destination:C:\WINNT\system32\sfcfiles.dll
+Version: 5.0.0.0
+***
+
+
+Source:C:\WINNT\system32\SET5EF.tmp
+Version: 5.0.2195.6897
+***
+
+
+Destination:C:\WINNT\system32\USER32.DLL
+Version: 5.0.0.0
+***
+
+
+Source:C:\WINNT\system32\SET5F0.tmp
+Version: 5.0.2195.6794
+***
+
+
+Destination:C:\WINNT\system32\USERENV.DLL
+Version: 5.0.0.0
+***
+
+
+Source:C:\WINNT\system32\SET62C.tmp
+Version: 5.0.2195.6824
+***
+
+
+Destination:C:\WINNT\system32\w32time.dll
+Version: 5.0.0.0
+***
+
+
+Source:C:\WINNT\system32\SET62D.tmp
+Version: 5.0.2195.6824
+***
+
+
+Destination:C:\WINNT\system32\w32tm.exe
+Version: 5.0.0.0
+***
+
+
+Source:C:\WINNT\system32\SET5F2.tmp
+Version: 5.0.2195.6970
+***
+
+
+Destination:C:\WINNT\system32\WINLOGON.EXE
+Version: 5.0.0.0
+***
+
+
+Source:C:\WINNT\system32\SET595.tmp
+Version: 5.131.2195.6824
+***
+
+
+Destination:C:\WINNT\system32\WINTRUST.DLL
+Version: 5.0.131.0
+***
+
+
+Source:C:\WINNT\system32\SET597.tmp
+Version: 5.1.2600.1327
+***
+
+
+Destination:C:\WINNT\system32\winhttp.dll
+Version: 5.0.1.0
+***
+
+
+Source:c:\2a21b9e41b70fbc3c62292
+Version: 
+***
+
+
+Destination:
+Version: 
+***
+
+
+Source:C:\WINNT\system32\SET5F1.tmp
+Version: 5.0.2195.6946
+***
+
+
+Destination:C:\WINNT\system32\VDMDBG.DLL
+Version: 5.0.0.0
+***
+
+
+Source:C:\WINNT\system32\SET5F3.tmp
+Version: 5.0.2195.6946
+***
+
+
+Destination:C:\WINNT\system32\wow32.dll
+Version: 5.0.0.0
+***
+
+SetDynamicDirectoryId: GetProcAddress for GetMSI20HotfixPath  failed: 0x7f
+***
+
+IncludeDirectoryIdFromInfSection: No DirId found for: DontRemoveOnUninst.DirId
+***
+
+FetchSourceURL: SetupOpenInfFile Failed to open file: c:\2b1d14d26858cdca98c84da5\update\update.url 
+***
+
+DoInstallation: FetchSourceURL for  c:\2b1d14d26858cdca98c84da5\update\update.inf Failed 
+***
+
+CreateUninstall = 1,Directory = C:\WINNT\$NtUninstallKB823182$ 
+***
+
+LoadFileQueues: SetupGetSourceFileLocation for halaacpi.dll failed: 0xe0000102
+***
+
+BuildCabinetManifest:SetupOpenInfFile failed with error INVALID_HANDLE_VALUE
+***
+
+AnalyzePhaseZero used 0 ticks
+
+***
+
+AnalyzePhaseOne: used 93 ticks
+
+***
+
+AnalyzePhaseTwo used 0 ticks
+
+***
+
+AnalyzePhaseThree used 0 ticks
+
+***
+
+AnalyzePhaseFive used 0 ticks
+
+***
+
+AnalyzePhaseSix used 0 ticks
+
+***
+
+AnalyzeComponents used 93 ticks
+
+***
+
+
+Downloading 0 files
+
+
+***
+
+bPatchMode = FALSE
+
+***
+
+Inventory complete: ReturnStatus=0, 109 ticks
+
+***
+
+Num Ticks for invent : 109
+
+***
+
+Allocation size of drive C: is 4096 bytes, free space = 17320906752 bytes
+
+***
+
+LoadFileQueues: SetupGetSourceFileLocation for halaacpi.dll failed: 0xe0000102
+***
+
+Drive C: free 16518MB req: 7MB w/uninstall 8MB
+
+***
+
+Num Ticks for download : 79
+
+***
+
+CabinetBuild complete
+
+***
+
+Num Ticks for Cabinet build : 0
+
+***
+
+LoadFileQueues: SetupGetSourceFileLocation for halaacpi.dll failed: 0xe0000102
+***
+
+Num Ticks for Backup : 78
+
+***
+
+Num Ticks for creating uninst inf : 78
+
+***
+
+Registering Uninstall Program for -> KB823182, KB823182 , 0x0
+***
+
+LoadFileQueues: SetupGetSourceFileLocation for halaacpi.dll failed: 0xe0000102
+***
+
+RegisterFile:RegOpenKeyEx for SOFTWARE\Microsoft\Updates\Windows 2000\SP5\KB823182\Filelist\0 Failed: 0x2 
+***
+
+Copied file:  C:\WINNT\system32\CRYPTUI.DLL
+***
+
+Copied file (delayed):  C:\WINNT\system32\SET649.tmp
+***
+
+RegisterFile:RegOpenKeyEx for SOFTWARE\Microsoft\Updates\Windows 2000\SP5\KB823182\Filelist\1 Failed: 0x2 
+***
+
+Copied file:  C:\WINNT\system32\DllCache\cryptui.dll
+***
+
+Num Ticks for Copying files : 2125
+
+***
+
+Num Ticks for Reg update and deleting 0 size files : 0	
+
+***
+
+UpdateSpUpdSvcInf: Source [ProcessesToRunAfterReboot] section is empty; nothing to do.
+***
+
+---- Old Information In The Registry ------
+***
+
+
+Source:C:\WINNT\system32\qmgrprxy.dll.bitssetup.bak.144781
+Version: 6.2.3630.2522
+***
+
+
+Destination:C:\WINNT\system32\BITS\Uninstall 1.5 Client\qmgrprxy.dll
+Version: 6.0.2.0
+***
+
+
+Source:c:\238cd6084271f3d5f5df73b3
+Version: 
+***
+
+
+Destination:
+Version: 
+***
+
+
+Source:C:\WINNT\TEMP\cle4A4.tmp\cleanup.exe
+Version: 3.1.1.184
+***
+
+
+Destination:
+Version: 
+***
+
+
+Source:C:\WINNT\TEMP\cle4A4.tmp
+Version: 
+***
+
+
+Destination:
+Version: 
+***
+
+
+Source:C:\WINNT\TEMP\cle4AF.tmp\cleanup.exe
+Version: 3.1.1.192
+***
+
+
+Destination:
+Version: 
+***
+
+
+Source:C:\WINNT\TEMP\cle4AF.tmp
+Version: 
+***
+
+
+Destination:
+Version: 
+***
+
+
+Source:c:\38a6fe506abc9c0314
+Version: 
+***
+
+
+Destination:
+Version: 
+***
+
+
+Source:c:\aecf35b3b472e3cc9069de4c2974ec
+Version: 
+***
+
+
+Destination:
+Version: 
+***
+
+
+Source:C:\WINNT\system32\_000006_.tmp
+Version: 5.0.2195.6656
+***
+
+
+Destination:
+Version: 
+***
+
+
+Source:C:\WINNT\system32\_000007_.tmp
+Version: 5.0.2195.6692
+***
+
+
+Destination:
+Version: 
+***
+
+
+Source:c:\f515cd54f57fe89138e32cf368e5
+Version: 
+***
+
+
+Destination:
+Version: 
+***
+
+
+Source:c:\4f714f5eb94aefd1b5989b8b9bc1d68d
+Version: 
+***
+
+
+Destination:
+Version: 
+***
+
+
+Source:c:\42279cde1c33fb3a9251eb
+Version: 
+***
+
+
+Destination:
+Version: 
+***
+
+
+Source:c:\a72c1a0587df801ea2a76d4a71a369fa
+Version: 
+***
+
+
+Destination:
+Version: 
+***
+
+
+Source:C:\WINNT\system32\SET519.tmp
+Version: 2000.2.3511.0
+***
+
+
+Destination:C:\WINNT\system32\clbcatq.dll
+Version: 2000.0.2.0
+***
+
+
+Source:C:\WINNT\system32\SET51C.tmp
+Version: 2000.2.3511.0
+***
+
+
+Destination:C:\WINNT\system32\comsvcs.dll
+Version: 2000.0.2.0
+***
+
+
+Source:C:\WINNT\system32\SET51F.tmp
+Version: 2000.2.3511.0
+***
+
+
+Destination:C:\WINNT\system32\es.dll
+Version: 2000.0.2.0
+***
+
+
+Source:C:\WINNT\system32\SET521.tmp
+Version: 2000.2.3513.0
+***
+
+
+Destination:C:\WINNT\system32\msdtcprx.dll
+Version: 2000.0.2.0
+***
+
+
+Source:C:\WINNT\system32\SET524.tmp
+Version: 2000.2.3511.0
+***
+
+
+Destination:C:\WINNT\system32\mtxclu.dll
+Version: 2000.0.2.0
+***
+
+
+Source:C:\WINNT\system32\SET527.tmp
+Version: 2000.2.3513.0
+***
+
+
+Destination:C:\WINNT\system32\mtxoci.dll
+Version: 2000.0.2.0
+***
+
+
+Source:C:\WINNT\system32\SET528.tmp
+Version: 5.0.2195.6906
+***
+
+
+Destination:C:\WINNT\system32\OLE32.DLL
+Version: 5.0.0.0
+***
+
+
+Source:C:\WINNT\system32\SET529.tmp
+Version: 5.0.2195.6904
+***
+
+
+Destination:C:\WINNT\system32\rpcrt4.dll
+Version: 5.0.0.0
+***
+
+
+Source:C:\WINNT\system32\SET52A.tmp
+Version: 5.0.2195.6906
+***
+
+
+Destination:C:\WINNT\system32\rpcss.dll
+Version: 5.0.0.0
+***
+
+
+Source:C:\WINNT\system32\SET52B.tmp
+Version: 2000.2.3511.0
+***
+
+
+Destination:C:\WINNT\system32\txfaux.dll
+Version: 2000.0.2.0
+***
+
+
+Source:C:\WINNT\system32\Setup\SET52D.tmp
+Version: 2000.2.3421.3511
+***
+
+
+Destination:C:\WINNT\system32\Setup\comsetup.dll
+Version: 2000.0.2.0
+***
+
+
+Source:c:\262414dfbb6351de274c8ad9330a25
+Version: 
+***
+
+
+Destination:
+Version: 
+***
+
+
+Source:c:\0a56c40f0b681b1d6cb904
+Version: 
+***
+
+
+Destination:
+Version: 
+***
+
+
+Source:C:\WINNT\system32\_000063_.tmp
+Version: 5.0.2195.6710
+***
+
+
+Destination:
+Version: 
+***
+
+
+Source:C:\WINNT\system32\_000064_.tmp
+Version: 5.0.2195.6695
+***
+
+
+Destination:
+Version: 
+***
+
+
+Source:C:\WINNT\system32\_000065_.tmp
+Version: 5.0.2195.6666
+***
+
+
+Destination:
+Version: 
+***
+
+
+Source:C:\WINNT\system32\_000066_.tmp
+Version: 5.0.2195.6680
+***
+
+
+Destination:
+Version: 
+***
+
+
+Source:C:\WINNT\system32\_000067_.tmp
+Version: 5.0.2195.6666
+***
+
+
+Destination:
+Version: 
+***
+
+
+Source:C:\WINNT\system32\_000068_.tmp
+Version: 5.0.2195.6697
+***
+
+
+Destination:
+Version: 
+***
+
+
+Source:C:\WINNT\system32\_000071_.tmp
+Version: 5.0.2195.6688
+***
+
+
+Destination:
+Version: 
+***
+
+
+Source:C:\WINNT\system32\_000072_.tmp
+Version: 5.0.2195.6685
+***
+
+
+Destination:
+Version: 
+***
+
+
+Source:C:\WINNT\system32\_000075_.tmp
+Version: 5.0.2195.6708
+***
+
+
+Destination:
+Version: 
+***
+
+
+Source:C:\WINNT\system32\_000076_.tmp
+Version: 5.0.2195.6699
+***
+
+
+Destination:
+Version: 
+***
+
+
+Source:C:\WINNT\system32\SET620.tmp
+Version: 5.0.2195.6987
+***
+
+
+Destination:C:\WINNT\system32\LSASRV.DLL
+Version: 5.0.0.0
+***
+
+
+Source:C:\WINNT\system32\SET575.tmp
+Version: 5.1.2195.6899
+***
+
+
+Destination:C:\WINNT\system32\SCHANNEL.DLL
+Version: 5.0.1.0
+***
+
+
+Source:C:\WINNT\system32\SET5E8.tmp
+Version: 5.0.2195.6951
+***
+
+
+Destination:C:\WINNT\system32\BASESRV.DLL
+Version: 5.0.0.0
+***
+
+
+Source:C:\WINNT\system32\SET622.tmp
+Version: 5.0.2195.6866
+***
+
+
+Destination:C:\WINNT\system32\browser.dll
+Version: 5.0.0.0
+***
+
+
+Source:C:\WINNT\system32\SET5E9.tmp
+Version: 5.0.2195.6824
+***
+
+
+Destination:C:\WINNT\system32\CMD.EXE
+Version: 5.0.0.0
+***
+
+
+Source:C:\WINNT\system32\SET57B.tmp
+Version: 5.131.2195.6824
+***
+
+
+Destination:C:\WINNT\system32\CRYPT32.DLL
+Version: 5.0.131.0
+***
+
+
+Source:C:\WINNT\system32\SET57C.tmp
+Version: 5.131.2195.6824
+***
+
+
+Destination:C:\WINNT\system32\CRYPTNET.DLL
+Version: 5.0.131.0
+***
+
+
+Source:C:\WINNT\system32\SET57D.tmp
+Version: 5.0.2195.6868
+***
+
+
+Destination:C:\WINNT\system32\cryptsvc.dll
+Version: 5.0.0.0
+***
+
+
+Source:C:\WINNT\system32\SET623.tmp
+Version: 5.0.2195.6824
+***
+
+
+Destination:C:\WINNT\system32\dnsapi.dll
+Version: 5.0.0.0
+***
+
+
+Source:C:\WINNT\system32\SET624.tmp
+Version: 5.0.2195.6876
+***
+
+
+Destination:C:\WINNT\system32\dnsrslvr.dll
+Version: 5.0.0.0
+***
+
+
+Source:C:\WINNT\system32\SET625.tmp
+Version: 5.0.2195.6883
+***
+
+
+Destination:C:\WINNT\system32\EVENTLOG.DLL
+Version: 5.0.0.0
+***
+
+
+Source:C:\WINNT\system32\SET5EA.tmp
+Version: 5.0.2195.6945
+***
+
+
+Destination:C:\WINNT\system32\GDI32.DLL
+Version: 5.0.0.0
+***
+
+
+Source:C:\WINNT\system32\SET582.tmp
+Version: 5.0.2195.6901
+***
+
+
+Destination:C:\WINNT\system32\h323.tsp
+Version: 5.0.0.0
+***
+
+
+Source:C:\WINNT\system32\SET626.tmp
+Version: 5.0.2195.6903
+***
+
+
+Destination:C:\WINNT\system32\kerberos.dll
+Version: 5.0.0.0
+***
+
+
+Source:C:\WINNT\system32\SET5EC.tmp
+Version: 5.0.2195.6824
+***
+
+
+Destination:C:\WINNT\system32\mpr.dll
+Version: 5.0.0.0
+***
+
+
+Source:C:\WINNT\system32\SET5ED.tmp
+Version: 5.0.2195.6928
+***
+
+
+Destination:C:\WINNT\system32\MSGINA.DLL
+Version: 5.0.0.0
+***
+
+
+Source:C:\WINNT\system32\SET627.tmp
+Version: 5.0.2195.6949
+***
+
+
+Destination:C:\WINNT\system32\NETAPI32.DLL
+Version: 5.0.0.0
+***
+
+
+Source:C:\WINNT\system32\SET628.tmp
+Version: 5.0.2195.6891
+***
+
+
+Destination:C:\WINNT\system32\NETLOGON.DLL
+Version: 5.0.0.0
+***
+
+
+Source:C:\WINNT\system32\SET629.tmp
+Version: 5.0.2195.6896
+***
+
+
+Destination:C:\WINNT\system32\ntdsa.dll
+Version: 5.0.0.0
+***
+
+
+Source:C:\WINNT\system32\SET58B.tmp
+Version: 5.0.2195.6824
+***
+
+
+Destination:C:\WINNT\system32\PSBASE.DLL
+Version: 5.0.0.0
+***
+
+
+Source:C:\WINNT\system32\SET62A.tmp
+Version: 5.0.2195.6893
+***
+
+
+Destination:C:\WINNT\system32\scecli.dll
+Version: 5.0.0.0
+***
+
+
+Source:C:\WINNT\system32\SET62B.tmp
+Version: 5.0.2195.6903
+***
+
+
+Destination:C:\WINNT\system32\scesrv.dll
+Version: 5.0.0.0
+***
+
+
+Source:C:\WINNT\system32\SET58E.tmp
+Version: 5.0.2195.6894
+***
+
+
+Destination:C:\WINNT\system32\sfcfiles.dll
+Version: 5.0.0.0
+***
+
+
+Source:C:\WINNT\system32\SET5EF.tmp
+Version: 5.0.2195.6897
+***
+
+
+Destination:C:\WINNT\system32\USER32.DLL
+Version: 5.0.0.0
+***
+
+
+Source:C:\WINNT\system32\SET5F0.tmp
+Version: 5.0.2195.6794
+***
+
+
+Destination:C:\WINNT\system32\USERENV.DLL
+Version: 5.0.0.0
+***
+
+
+Source:C:\WINNT\system32\SET62C.tmp
+Version: 5.0.2195.6824
+***
+
+
+Destination:C:\WINNT\system32\w32time.dll
+Version: 5.0.0.0
+***
+
+
+Source:C:\WINNT\system32\SET62D.tmp
+Version: 5.0.2195.6824
+***
+
+
+Destination:C:\WINNT\system32\w32tm.exe
+Version: 5.0.0.0
+***
+
+
+Source:C:\WINNT\system32\SET5F2.tmp
+Version: 5.0.2195.6970
+***
+
+
+Destination:C:\WINNT\system32\WINLOGON.EXE
+Version: 5.0.0.0
+***
+
+
+Source:C:\WINNT\system32\SET595.tmp
+Version: 5.131.2195.6824
+***
+
+
+Destination:C:\WINNT\system32\WINTRUST.DLL
+Version: 5.0.131.0
+***
+
+
+Source:C:\WINNT\system32\SET597.tmp
+Version: 5.1.2600.1327
+***
+
+
+Destination:C:\WINNT\system32\winhttp.dll
+Version: 5.0.1.0
+***
+
+
+Source:c:\2a21b9e41b70fbc3c62292
+Version: 
+***
+
+
+Destination:
+Version: 
+***
+
+
+Source:C:\WINNT\system32\SET5F1.tmp
+Version: 5.0.2195.6946
+***
+
+
+Destination:C:\WINNT\system32\VDMDBG.DLL
+Version: 5.0.0.0
+***
+
+
+Source:C:\WINNT\system32\SET5F3.tmp
+Version: 5.0.2195.6946
+***
+
+
+Destination:C:\WINNT\system32\wow32.dll
+Version: 5.0.0.0
+***
+
+
+Source:C:\WINNT\system32\SET649.tmp
+Version: 5.131.2195.6758
+***
+
+
+Destination:C:\WINNT\system32\CRYPTUI.DLL
+Version: 5.0.131.0
+***
+
+
+ 
+ 
+---- New Information In The Registry ------
+***
+
+
+Source:C:\WINNT\system32\qmgrprxy.dll.bitssetup.bak.144781
+Version: 6.2.3630.2522
+***
+
+
+Destination:C:\WINNT\system32\BITS\Uninstall 1.5 Client\qmgrprxy.dll
+Version: 6.0.2.0
+***
+
+
+Source:c:\238cd6084271f3d5f5df73b3
+Version: 
+***
+
+
+Destination:
+Version: 
+***
+
+
+Source:C:\WINNT\TEMP\cle4A4.tmp\cleanup.exe
+Version: 3.1.1.184
+***
+
+
+Destination:
+Version: 
+***
+
+
+Source:C:\WINNT\TEMP\cle4A4.tmp
+Version: 
+***
+
+
+Destination:
+Version: 
+***
+
+
+Source:C:\WINNT\TEMP\cle4AF.tmp\cleanup.exe
+Version: 3.1.1.192
+***
+
+
+Destination:
+Version: 
+***
+
+
+Source:C:\WINNT\TEMP\cle4AF.tmp
+Version: 
+***
+
+
+Destination:
+Version: 
+***
+
+
+Source:c:\38a6fe506abc9c0314
+Version: 
+***
+
+
+Destination:
+Version: 
+***
+
+
+Source:c:\aecf35b3b472e3cc9069de4c2974ec
+Version: 
+***
+
+
+Destination:
+Version: 
+***
+
+
+Source:C:\WINNT\system32\_000006_.tmp
+Version: 5.0.2195.6656
+***
+
+
+Destination:
+Version: 
+***
+
+
+Source:C:\WINNT\system32\_000007_.tmp
+Version: 5.0.2195.6692
+***
+
+
+Destination:
+Version: 
+***
+
+
+Source:c:\f515cd54f57fe89138e32cf368e5
+Version: 
+***
+
+
+Destination:
+Version: 
+***
+
+
+Source:c:\4f714f5eb94aefd1b5989b8b9bc1d68d
+Version: 
+***
+
+
+Destination:
+Version: 
+***
+
+
+Source:c:\42279cde1c33fb3a9251eb
+Version: 
+***
+
+
+Destination:
+Version: 
+***
+
+
+Source:c:\a72c1a0587df801ea2a76d4a71a369fa
+Version: 
+***
+
+
+Destination:
+Version: 
+***
+
+
+Source:C:\WINNT\system32\SET519.tmp
+Version: 2000.2.3511.0
+***
+
+
+Destination:C:\WINNT\system32\clbcatq.dll
+Version: 2000.0.2.0
+***
+
+
+Source:C:\WINNT\system32\SET51C.tmp
+Version: 2000.2.3511.0
+***
+
+
+Destination:C:\WINNT\system32\comsvcs.dll
+Version: 2000.0.2.0
+***
+
+
+Source:C:\WINNT\system32\SET51F.tmp
+Version: 2000.2.3511.0
+***
+
+
+Destination:C:\WINNT\system32\es.dll
+Version: 2000.0.2.0
+***
+
+
+Source:C:\WINNT\system32\SET521.tmp
+Version: 2000.2.3513.0
+***
+
+
+Destination:C:\WINNT\system32\msdtcprx.dll
+Version: 2000.0.2.0
+***
+
+
+Source:C:\WINNT\system32\SET524.tmp
+Version: 2000.2.3511.0
+***
+
+
+Destination:C:\WINNT\system32\mtxclu.dll
+Version: 2000.0.2.0
+***
+
+
+Source:C:\WINNT\system32\SET527.tmp
+Version: 2000.2.3513.0
+***
+
+
+Destination:C:\WINNT\system32\mtxoci.dll
+Version: 2000.0.2.0
+***
+
+
+Source:C:\WINNT\system32\SET528.tmp
+Version: 5.0.2195.6906
+***
+
+
+Destination:C:\WINNT\system32\OLE32.DLL
+Version: 5.0.0.0
+***
+
+
+Source:C:\WINNT\system32\SET529.tmp
+Version: 5.0.2195.6904
+***
+
+
+Destination:C:\WINNT\system32\rpcrt4.dll
+Version: 5.0.0.0
+***
+
+
+Source:C:\WINNT\system32\SET52A.tmp
+Version: 5.0.2195.6906
+***
+
+
+Destination:C:\WINNT\system32\rpcss.dll
+Version: 5.0.0.0
+***
+
+
+Source:C:\WINNT\system32\SET52B.tmp
+Version: 2000.2.3511.0
+***
+
+
+Destination:C:\WINNT\system32\txfaux.dll
+Version: 2000.0.2.0
+***
+
+
+Source:C:\WINNT\system32\Setup\SET52D.tmp
+Version: 2000.2.3421.3511
+***
+
+
+Destination:C:\WINNT\system32\Setup\comsetup.dll
+Version: 2000.0.2.0
+***
+
+
+Source:c:\262414dfbb6351de274c8ad9330a25
+Version: 
+***
+
+
+Destination:
+Version: 
+***
+
+
+Source:c:\0a56c40f0b681b1d6cb904
+Version: 
+***
+
+
+Destination:
+Version: 
+***
+
+
+Source:C:\WINNT\system32\_000063_.tmp
+Version: 5.0.2195.6710
+***
+
+
+Destination:
+Version: 
+***
+
+
+Source:C:\WINNT\system32\_000064_.tmp
+Version: 5.0.2195.6695
+***
+
+
+Destination:
+Version: 
+***
+
+
+Source:C:\WINNT\system32\_000065_.tmp
+Version: 5.0.2195.6666
+***
+
+
+Destination:
+Version: 
+***
+
+
+Source:C:\WINNT\system32\_000066_.tmp
+Version: 5.0.2195.6680
+***
+
+
+Destination:
+Version: 
+***
+
+
+Source:C:\WINNT\system32\_000067_.tmp
+Version: 5.0.2195.6666
+***
+
+
+Destination:
+Version: 
+***
+
+
+Source:C:\WINNT\system32\_000068_.tmp
+Version: 5.0.2195.6697
+***
+
+
+Destination:
+Version: 
+***
+
+
+Source:C:\WINNT\system32\_000071_.tmp
+Version: 5.0.2195.6688
+***
+
+
+Destination:
+Version: 
+***
+
+
+Source:C:\WINNT\system32\_000072_.tmp
+Version: 5.0.2195.6685
+***
+
+
+Destination:
+Version: 
+***
+
+
+Source:C:\WINNT\system32\_000075_.tmp
+Version: 5.0.2195.6708
+***
+
+
+Destination:
+Version: 
+***
+
+
+Source:C:\WINNT\system32\_000076_.tmp
+Version: 5.0.2195.6699
+***
+
+
+Destination:
+Version: 
+***
+
+
+Source:C:\WINNT\system32\SET620.tmp
+Version: 5.0.2195.6987
+***
+
+
+Destination:C:\WINNT\system32\LSASRV.DLL
+Version: 5.0.0.0
+***
+
+
+Source:C:\WINNT\system32\SET575.tmp
+Version: 5.1.2195.6899
+***
+
+
+Destination:C:\WINNT\system32\SCHANNEL.DLL
+Version: 5.0.1.0
+***
+
+
+Source:C:\WINNT\system32\SET5E8.tmp
+Version: 5.0.2195.6951
+***
+
+
+Destination:C:\WINNT\system32\BASESRV.DLL
+Version: 5.0.0.0
+***
+
+
+Source:C:\WINNT\system32\SET622.tmp
+Version: 5.0.2195.6866
+***
+
+
+Destination:C:\WINNT\system32\browser.dll
+Version: 5.0.0.0
+***
+
+
+Source:C:\WINNT\system32\SET5E9.tmp
+Version: 5.0.2195.6824
+***
+
+
+Destination:C:\WINNT\system32\CMD.EXE
+Version: 5.0.0.0
+***
+
+
+Source:C:\WINNT\system32\SET57B.tmp
+Version: 5.131.2195.6824
+***
+
+
+Destination:C:\WINNT\system32\CRYPT32.DLL
+Version: 5.0.131.0
+***
+
+
+Source:C:\WINNT\system32\SET57C.tmp
+Version: 5.131.2195.6824
+***
+
+
+Destination:C:\WINNT\system32\CRYPTNET.DLL
+Version: 5.0.131.0
+***
+
+
+Source:C:\WINNT\system32\SET57D.tmp
+Version: 5.0.2195.6868
+***
+
+
+Destination:C:\WINNT\system32\cryptsvc.dll
+Version: 5.0.0.0
+***
+
+
+Source:C:\WINNT\system32\SET623.tmp
+Version: 5.0.2195.6824
+***
+
+
+Destination:C:\WINNT\system32\dnsapi.dll
+Version: 5.0.0.0
+***
+
+
+Source:C:\WINNT\system32\SET624.tmp
+Version: 5.0.2195.6876
+***
+
+
+Destination:C:\WINNT\system32\dnsrslvr.dll
+Version: 5.0.0.0
+***
+
+
+Source:C:\WINNT\system32\SET625.tmp
+Version: 5.0.2195.6883
+***
+
+
+Destination:C:\WINNT\system32\EVENTLOG.DLL
+Version: 5.0.0.0
+***
+
+
+Source:C:\WINNT\system32\SET5EA.tmp
+Version: 5.0.2195.6945
+***
+
+
+Destination:C:\WINNT\system32\GDI32.DLL
+Version: 5.0.0.0
+***
+
+
+Source:C:\WINNT\system32\SET582.tmp
+Version: 5.0.2195.6901
+***
+
+
+Destination:C:\WINNT\system32\h323.tsp
+Version: 5.0.0.0
+***
+
+
+Source:C:\WINNT\system32\SET626.tmp
+Version: 5.0.2195.6903
+***
+
+
+Destination:C:\WINNT\system32\kerberos.dll
+Version: 5.0.0.0
+***
+
+
+Source:C:\WINNT\system32\SET5EC.tmp
+Version: 5.0.2195.6824
+***
+
+
+Destination:C:\WINNT\system32\mpr.dll
+Version: 5.0.0.0
+***
+
+
+Source:C:\WINNT\system32\SET5ED.tmp
+Version: 5.0.2195.6928
+***
+
+
+Destination:C:\WINNT\system32\MSGINA.DLL
+Version: 5.0.0.0
+***
+
+
+Source:C:\WINNT\system32\SET627.tmp
+Version: 5.0.2195.6949
+***
+
+
+Destination:C:\WINNT\system32\NETAPI32.DLL
+Version: 5.0.0.0
+***
+
+
+Source:C:\WINNT\system32\SET628.tmp
+Version: 5.0.2195.6891
+***
+
+
+Destination:C:\WINNT\system32\NETLOGON.DLL
+Version: 5.0.0.0
+***
+
+
+Source:C:\WINNT\system32\SET629.tmp
+Version: 5.0.2195.6896
+***
+
+
+Destination:C:\WINNT\system32\ntdsa.dll
+Version: 5.0.0.0
+***
+
+
+Source:C:\WINNT\system32\SET58B.tmp
+Version: 5.0.2195.6824
+***
+
+
+Destination:C:\WINNT\system32\PSBASE.DLL
+Version: 5.0.0.0
+***
+
+
+Source:C:\WINNT\system32\SET62A.tmp
+Version: 5.0.2195.6893
+***
+
+
+Destination:C:\WINNT\system32\scecli.dll
+Version: 5.0.0.0
+***
+
+
+Source:C:\WINNT\system32\SET62B.tmp
+Version: 5.0.2195.6903
+***
+
+
+Destination:C:\WINNT\system32\scesrv.dll
+Version: 5.0.0.0
+***
+
+
+Source:C:\WINNT\system32\SET58E.tmp
+Version: 5.0.2195.6894
+***
+
+
+Destination:C:\WINNT\system32\sfcfiles.dll
+Version: 5.0.0.0
+***
+
+
+Source:C:\WINNT\system32\SET5EF.tmp
+Version: 5.0.2195.6897
+***
+
+
+Destination:C:\WINNT\system32\USER32.DLL
+Version: 5.0.0.0
+***
+
+
+Source:C:\WINNT\system32\SET5F0.tmp
+Version: 5.0.2195.6794
+***
+
+
+Destination:C:\WINNT\system32\USERENV.DLL
+Version: 5.0.0.0
+***
+
+
+Source:C:\WINNT\system32\SET62C.tmp
+Version: 5.0.2195.6824
+***
+
+
+Destination:C:\WINNT\system32\w32time.dll
+Version: 5.0.0.0
+***
+
+
+Source:C:\WINNT\system32\SET62D.tmp
+Version: 5.0.2195.6824
+***
+
+
+Destination:C:\WINNT\system32\w32tm.exe
+Version: 5.0.0.0
+***
+
+
+Source:C:\WINNT\system32\SET5F2.tmp
+Version: 5.0.2195.6970
+***
+
+
+Destination:C:\WINNT\system32\WINLOGON.EXE
+Version: 5.0.0.0
+***
+
+
+Source:C:\WINNT\system32\SET595.tmp
+Version: 5.131.2195.6824
+***
+
+
+Destination:C:\WINNT\system32\WINTRUST.DLL
+Version: 5.0.131.0
+***
+
+
+Source:C:\WINNT\system32\SET597.tmp
+Version: 5.1.2600.1327
+***
+
+
+Destination:C:\WINNT\system32\winhttp.dll
+Version: 5.0.1.0
+***
+
+
+Source:c:\2a21b9e41b70fbc3c62292
+Version: 
+***
+
+
+Destination:
+Version: 
+***
+
+
+Source:C:\WINNT\system32\SET5F1.tmp
+Version: 5.0.2195.6946
+***
+
+
+Destination:C:\WINNT\system32\VDMDBG.DLL
+Version: 5.0.0.0
+***
+
+
+Source:C:\WINNT\system32\SET5F3.tmp
+Version: 5.0.2195.6946
+***
+
+
+Destination:C:\WINNT\system32\wow32.dll
+Version: 5.0.0.0
+***
+
+
+Source:C:\WINNT\system32\SET649.tmp
+Version: 5.131.2195.6758
+***
+
+
+Destination:C:\WINNT\system32\CRYPTUI.DLL
+Version: 5.0.131.0
+***
+
+VerifySize: Unable to verify size: Source = NULL: c:\winnt\oem13.cat 
+
+***
+
+RebootNecessary = 1,WizardInput = 1 , DontReboot = 1
+***
+

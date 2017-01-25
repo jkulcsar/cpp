@@ -1,0 +1,2 @@
+Sometimes, you'll find yourself in need for using shared_ptr with a type that requires other cleanup than a simple delete. There is support for such cases in shared_ptr tHRough what is called custom deleters. Resource handles, such as FILE*, or operating systemspecific handles, are typically released through an operation such as fclose. To use a FILE* in a shared_ptr, we define a class that is responsible for deallocating the resource.
+

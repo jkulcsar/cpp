@@ -1,0 +1,18 @@
+# Set root category priority to DEBUG and its only appender to A1.
+log4j.rootCategory=INFO, A1, A4
+#log4j.category.com.rbccm.arch=INFO
+
+# A1 is set to be a ConsoleAppender.
+log4j.appender.A1=org.apache.log4j.ConsoleAppender
+log4j.appender.A1.layout=org.apache.log4j.PatternLayout
+log4j.appender.A1.layout.ConversionPattern=%d{%b %d, %Y %H:%M:%S.%l} %p - %m%n
+
+# A4 is set to be a file appender
+log4j.appender.A4=org.apache.log4j.FileAppender
+log4j.appender.A4.fileName=test.log
+log4j.appender.A4.layout=org.apache.log4j.PatternLayout
+log4j.appender.A4.layout.ConversionPattern=%d{%b %d, %Y %H:%M:%S} %p - %m%n
+
+
+
+
