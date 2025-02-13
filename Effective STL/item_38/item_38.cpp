@@ -10,7 +10,6 @@
 #include <algorithm>
 #include "../Widget.h"
 
-#include <boost/shared_ptr.hpp>
 
 using namespace std;
 
@@ -76,7 +75,7 @@ template<typename T>
 class BPFC : public unary_function<T, void> {
 private:
 //	BPFCImpl<T>* pImpl;
-	boost::shared_ptr< BPFCImpl<T> > pImpl;
+	std::shared_ptr< BPFCImpl<T> > pImpl;
 public:
 	BPFC() : pImpl(new BPFCImpl<T>()) {
 	}

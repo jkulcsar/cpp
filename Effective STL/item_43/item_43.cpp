@@ -5,6 +5,7 @@
 #include <algorithm>
 #include <iostream>
 #include <list>
+#include <functional>
 
 class Widget
 {
