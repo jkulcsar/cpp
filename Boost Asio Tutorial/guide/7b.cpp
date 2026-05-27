@@ -95,7 +95,7 @@ int main( int argc, char * argv[] )
 	{
 		boost::asio::ip::tcp::resolver resolver( *io_service );
 		boost::asio::ip::tcp::resolver::query query( 
-			"localhost", 
+			"localhost",
 			boost::lexical_cast< std::string >( 8080 )
 			);
 		boost::asio::ip::tcp::resolver::iterator iterator = resolver.resolve( query );
